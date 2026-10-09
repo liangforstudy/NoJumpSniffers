@@ -2,7 +2,7 @@
 
 A Minecraft Bedrock add-on that stops sniffers from jumping.
 
-**[Download NoJumpSniffers.mcaddon](https://github.com/liangforstudy/NoJumpSniffers/releases/latest/download/NoJumpSniffers.mcaddon)**
+**[Download NoJumpSniffers.mcaddon](https://github.com/liangforstudy/NoJumpSniffers/raw/main/download/NoJumpSniffers.mcaddon)**
 
 ## What it does
 

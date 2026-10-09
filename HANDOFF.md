@@ -70,3 +70,9 @@ packs/BP/pack_icon.png
 
 Same as Parrot Party Range: remove the old version from the world, load in
 once without it, exit, add the new version, then check Technical details.
+
+## Publishing
+
+GitHub repo: github.com/liangforstudy/NoJumpSniffers. After `./build.sh`, commit
+`download/NoJumpSniffers.mcaddon` (build.sh copies it there). The README download link
+points at that file on main, so it always serves the latest build.

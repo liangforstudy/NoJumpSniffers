@@ -13,3 +13,7 @@ rm -f "$OUT"
 (cd packs && zip -qrX "../$OUT" BP -x '*.DS_Store')
 echo "built $OUT"
 unzip -l "$OUT"
+# Fixed-name copy that the README download link points to (commit it).
+mkdir -p download
+cp "$OUT" "download/NoJumpSniffers.mcaddon"
+echo "copied to download/NoJumpSniffers.mcaddon"
