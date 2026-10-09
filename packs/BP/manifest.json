@@ -1,0 +1,20 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "No Jump Sniffers",
+    "description": "Sniffers (and snifflets) can't jump or climb blocks on land, but still float in water",
+    "uuid": "05ab8720-124d-419e-973d-6c98ebdc51aa",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 90]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "e00cbcb9-04ce-4096-8330-3ce1db3fca3d",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    "product_type": "addon"
+  }
+}
